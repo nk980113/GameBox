@@ -1,0 +1,27 @@
+{
+  "name": "game-box",
+  "version": "0.0.0",
+  "description": "Play mini games anytime, anywhere on your computer.",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "test": "electron .",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nk980113/GameBox.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nk980113/GameBox/issues"
+  },
+  "homepage": "https://github.com/nk980113/GameBox#readme",
+  "dependencies": {
+    "electron": "^16.0.4"
+  }
+}
